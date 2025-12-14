@@ -1,9 +1,0 @@
-app = "n8n-yourname"
-primary_region = "sin"
-
-[build]
-  dockerfile = "Dockerfile"
-
-[http_service]
-  internal_port = 5678
-  force_https = true
